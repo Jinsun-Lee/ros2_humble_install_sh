@@ -9,3 +9,19 @@ ros2 run demo_nodes_cpp talker
 sh run.sh
 ```
 
+# 삭제
+```
+sudo rm /var/lib/apt/lists/lock
+sudo rm /var/cache/apt/archives/lock
+sudo rm /var/lib/dpkg/lock*
+sudo dpkg --configure -a
+sudo apt update
+sudo apt remove ~nros-humble-* && sudo apt autoremove
+sudo rm /etc/apt/sources.list.d/ros2.list
+sudo apt update
+sudo apt autoremove
+sudo apt upgrade
+
+source /opt/ros/humble/setup.bash
+ros2 run demo_nodes_cpp talker
+```
