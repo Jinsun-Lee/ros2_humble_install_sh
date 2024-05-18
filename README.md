@@ -83,3 +83,6 @@ ros2 run demo_nodes_cpp talker
 </details>
 
 
+### 에러 
+![스크린샷 2024-05-18 17-10-17](https://github.com/Jinsun-Lee/ros2_humble_install_sh/assets/68187536/2106c362-0a18-4afe-9024-0ad317ac4147)
+
