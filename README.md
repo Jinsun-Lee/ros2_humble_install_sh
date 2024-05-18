@@ -1,6 +1,6 @@
 # 다운로드 + 설치
 ```
-curl -L -O https://github.com/Jinsun-Lee/ros2_humble_install_sh/blob/main/run.sh; sh run.sh
+curl -L -O https://github.com/Jinsun-Lee/ros2_humble_install_sh/raw/main/run.sh; sh run.sh
 ```
 
 # 설치 확인
