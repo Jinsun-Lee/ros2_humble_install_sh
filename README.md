@@ -17,7 +17,11 @@ sh run.sh를 실행하면 설치됩니다.
 </br></br></br></br>
 
 
-
+# 우분투 설치 확인
+```
+lsb_release -r     # 22.04가 나오는지 확인
+sudo passwd root   # 비밀번호 설정
+```
 
 
 
