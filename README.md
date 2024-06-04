@@ -23,6 +23,7 @@ sh run.sh를 실행하면 설치됩니다.
 
 # 1. 설치
 ```
+sudo apt install curl
 curl -L -O https://github.com/Jinsun-Lee/ros2_humble_install_sh/raw/main/run.sh; sh run.sh
 ```
 ![image](https://github.com/Jinsun-Lee/ros2_humble_install_sh/assets/68187536/f3fdc0af-61af-45d2-9ac4-f4cb47716408)
