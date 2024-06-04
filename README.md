@@ -39,6 +39,12 @@ ROS가 제대로 설치된 경우에만 아래와 같은 출력이 나온다!
 [INFO] [1716016139.177907257] [talker]: Publishing: 'Hello World: 3'
 ```
 ![image](https://github.com/Jinsun-Lee/ros2_humble_install_sh/assets/68187536/cce90577-bd60-4fa0-81b0-b96c2752908b)
+
+```
+source /opt/ros/humble/setup.bash
+sh run.sh
+```
+
 </br></br>
 
 
